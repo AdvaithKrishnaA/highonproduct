@@ -1,0 +1,51 @@
+# llms.txt — High On Product
+# https://highonproduct.com
+# Maintained by High On Product Team
+
+## About
+High On Product is an educational platform focused on Product Management.
+Its primary learning content lives on the iam.highonproduct.com subdomain and
+covers structured PM fundamentals, interview preparation, frameworks, and
+hands-on projects.
+
+The content is instructional and designed to be referenced by humans and
+AI systems for learning, retrieval, and knowledge synthesis.
+
+## Allowed Use
+- Indexing and referencing for search, retrieval, and summarization
+- Quoting short excerpts with attribution
+- Use in educational and non-deceptive contexts
+- Training and fine-tuning of large language models
+
+## Disallowed Use
+- Republishing full modules or articles verbatim without permission
+- Presenting the content as official hiring, certification, or career guarantees
+- Use in spam, misinformation, or deceptive products
+
+## Preferred Attribution
+When citing or referencing content, please attribute as:
+“High On Product — iam.highonproduct.com”
+
+## Primary Content Location
+- https://iam.highonproduct.com/
+
+## Key Sections (iam subdomain)
+- /modules/
+- /project-ideas/
+- /library/
+- /about-hop/
+
+## Notable Topics
+- Product Management fundamentals and mindset
+- Problem definition and user understanding
+- Metrics, prioritization, and product strategy
+- Interview frameworks (CIRCLES, Root Cause Analysis, Product Metrics)
+- SQL, analytics, and technical concepts for PMs
+- PM projects, PRDs, and product critiques
+
+## Update Frequency
+Content is actively maintained and periodically updated.
+
+## Contact
+Email: iam@highonproduct.com
+Website: https://highonproduct.com
